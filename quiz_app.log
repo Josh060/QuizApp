@@ -1,0 +1,72 @@
+2025-04-26 23:35:00,319 - root - DEBUG - Initializing QuizApp...
+2025-04-26 23:35:00,930 - root - INFO - QuizApp initialized
+2025-04-26 23:35:01,139 - root - DEBUG - Preloaded questions for Python
+2025-04-26 23:35:01,248 - root - DEBUG - Preloaded questions for Java
+2025-04-26 23:35:01,316 - root - DEBUG - Preloaded questions for C++
+2025-04-26 23:35:01,430 - root - DEBUG - Preloaded questions for JavaScript
+2025-04-26 23:35:07,360 - root - INFO - Exiting application...
+2025-04-26 23:36:08,311 - root - DEBUG - Initializing QuizApp...
+2025-04-26 23:36:08,700 - root - INFO - QuizApp initialized
+2025-04-26 23:36:08,883 - root - DEBUG - Preloaded questions for Python
+2025-04-26 23:36:08,970 - root - DEBUG - Preloaded questions for Java
+2025-04-26 23:36:09,030 - root - DEBUG - Preloaded questions for C++
+2025-04-26 23:36:09,101 - root - DEBUG - Preloaded questions for JavaScript
+2025-04-26 23:39:00,484 - root - DEBUG - Initializing QuizApp...
+2025-04-26 23:39:00,936 - root - INFO - QuizApp initialized
+2025-04-26 23:39:01,140 - root - DEBUG - Preloaded questions for Python
+2025-04-26 23:39:01,230 - root - DEBUG - Preloaded questions for Java
+2025-04-26 23:39:01,295 - root - DEBUG - Preloaded questions for C++
+2025-04-26 23:39:01,346 - root - DEBUG - Preloaded questions for JavaScript
+2025-04-26 23:39:04,846 - root - INFO - Exiting application...
+2025-04-27 09:22:46,928 - root - DEBUG - Initializing QuizApp...
+2025-04-27 09:22:47,676 - root - INFO - QuizApp initialized
+2025-04-27 09:22:47,946 - root - DEBUG - Preloaded questions for Python
+2025-04-27 09:22:48,178 - root - DEBUG - Preloaded questions for Java
+2025-04-27 09:22:48,322 - root - DEBUG - Preloaded questions for C++
+2025-04-27 09:22:48,437 - root - DEBUG - Preloaded questions for JavaScript
+2025-04-27 09:27:07,727 - root - DEBUG - Initializing QuizApp...
+2025-04-27 09:28:25,465 - root - DEBUG - Initializing QuizApp...
+2025-04-27 09:28:25,763 - root - INFO - QuizApp initialized
+2025-04-27 09:28:25,936 - root - DEBUG - Preloaded questions for Python
+2025-04-27 09:28:26,005 - root - DEBUG - Preloaded questions for Java
+2025-04-27 09:28:26,055 - root - DEBUG - Preloaded questions for C++
+2025-04-27 09:28:26,116 - root - DEBUG - Preloaded questions for JavaScript
+2025-04-27 09:28:54,034 - root - INFO - Exiting application...
+2025-04-27 09:33:36,158 - root - DEBUG - Initializing QuizApp...
+2025-04-27 09:33:36,418 - root - INFO - QuizApp initialized
+2025-04-27 09:33:36,624 - root - DEBUG - Preloaded questions for Python
+2025-04-27 09:33:36,684 - root - DEBUG - Preloaded questions for Java
+2025-04-27 09:33:36,760 - root - DEBUG - Preloaded questions for C++
+2025-04-27 09:33:36,830 - root - DEBUG - Preloaded questions for JavaScript
+2025-04-27 09:33:39,651 - root - INFO - Exiting application...
+2025-04-27 09:38:59,752 - root - DEBUG - Initializing QuizApp...
+2025-04-27 09:39:00,039 - root - INFO - QuizApp initialized
+2025-04-27 09:39:00,156 - root - DEBUG - Preloaded questions for Python
+2025-04-27 09:39:00,212 - root - DEBUG - Preloaded questions for Java
+2025-04-27 09:39:00,248 - root - DEBUG - Preloaded questions for C++
+2025-04-27 09:39:00,292 - root - DEBUG - Preloaded questions for JavaScript
+2025-04-27 09:39:10,199 - root - INFO - Exiting application...
+2025-04-27 09:41:03,922 - root - DEBUG - Initializing QuizApp...
+2025-04-27 09:41:04,164 - root - INFO - QuizApp initialized
+2025-04-27 09:41:04,320 - root - DEBUG - Preloaded questions for Python
+2025-04-27 09:41:04,381 - root - DEBUG - Preloaded questions for Java
+2025-04-27 09:41:04,427 - root - DEBUG - Preloaded questions for C++
+2025-04-27 09:41:04,467 - root - DEBUG - Preloaded questions for JavaScript
+2025-04-27 09:42:29,076 - root - INFO - Exiting application...
+2025-04-27 09:44:23,306 - root - DEBUG - Initializing QuizApp...
+2025-04-27 09:47:18,103 - root - DEBUG - Initializing QuizApp...
+2025-04-27 09:49:15,904 - root - DEBUG - Initializing QuizApp...
+2025-04-27 09:49:16,153 - root - INFO - QuizApp initialized
+2025-04-27 09:49:16,307 - root - DEBUG - Preloaded questions for Python
+2025-04-27 09:49:16,358 - root - DEBUG - Preloaded questions for Java
+2025-04-27 09:49:16,391 - root - DEBUG - Preloaded questions for C++
+2025-04-27 09:49:16,436 - root - DEBUG - Preloaded questions for JavaScript
+2025-04-27 09:49:35,094 - root - INFO - Exiting application...
+2025-04-27 10:24:52,229 - root - DEBUG - Initializing QuizApp...
+2025-04-27 10:24:52,741 - root - INFO - QuizApp initialized
+2025-04-27 10:24:52,932 - root - DEBUG - Preloaded questions for Python
+2025-04-27 10:24:53,010 - root - DEBUG - Preloaded questions for Java
+2025-04-27 10:24:53,064 - root - DEBUG - Preloaded questions for C++
+2025-04-27 10:24:53,160 - root - DEBUG - Preloaded questions for JavaScript
+2025-04-27 10:25:00,823 - root - INFO - Exiting application...
+2025-04-29 10:10:58,126 - INFO - Connected to MySQL database: quiz_db@localhost
